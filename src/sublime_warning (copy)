@@ -3,5 +3,6 @@ Package Control
 Your system's locale is set to a value that can not handle non-ASCII characters. Package Control can not properly work unless this is fixed.
 
 updated
+added again
 
 LANG=en_US.UTF-8 LC_CTYPE=en_US.UTF-8 sublime_text
