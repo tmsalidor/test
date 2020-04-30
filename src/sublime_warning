@@ -5,3 +5,14 @@ Your system's locale is set to a value that can not handle non-ASCII characters.
 On Linux, please reference your distribution's docs for information on properly setting the LANG and LC_CTYPE environmental variables. As a temporary work-around, you can launch Sublime Text from the terminal with:
 
 LANG=en_US.UTF-8 LC_CTYPE=en_US.UTF-8 sublime_text
+
+
+test1
+test2
+test3
+
+test4
+test5
+test6
+
+test7
